@@ -1,0 +1,13 @@
+{
+  "name": "P2P",
+  "version": "0.0.1",
+  "author": "Joseph M J",
+  "email": "jmjonly4you@gmail.com",
+  "description": "Just an app for multi user chat",
+  "dependencies": {
+    "express": "latest",
+    "http": "latest",
+    "body-parser": "latest",
+    "socket.io": "latest"
+  }
+}
